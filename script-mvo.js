@@ -1,5 +1,4 @@
 import {fetchInitialRecipes} from "./utils.js";
-// import {addRecipe} from "./utils.js";
 
 const recipesContainer = document.getElementById('recipes');
 
